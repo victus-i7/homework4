@@ -1,0 +1,36 @@
+.center {
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+    &__list {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        &--item:nth-child(1) {
+            margin-top: -15px;
+            padding-right: 10px;
+            font-weight: 500;
+            color: #E5E5E5;
+        }
+
+        &--item:nth-child(3) {
+            margin-top: -15px;
+            padding-left: 10px;
+            font-weight: 500;
+            color: #E5E5E5;
+        }
+
+        &--item {
+            font-size: 15px;
+            font-weight: 600;
+            color: #DEE0E4;
+        }
+
+
+
+    }
+
+
+}

@@ -1,0 +1,39 @@
+.table1 {
+    width: 360px;
+    margin-top: 22px;
+    margin-left: 170px;
+
+
+    &__item1 {
+        color: grey;
+        margin-left: 314px;
+
+        &--list1 {
+            font-size: 15px;
+        }
+
+
+    }
+
+    &__list1 {
+        height: 66px;
+        background-color: #F2F2F2;
+        clip-path: polygon(32% 0, 100% 0, 97% 11%, 97% 100%, 0 100%, 0 10%, 0 0);
+        padding: 15px 15px 15px 15px;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+
+        margin-top: 10px;
+
+        &--item1 {
+            padding-bottom: 3px;
+
+        }
+
+
+    }
+
+}

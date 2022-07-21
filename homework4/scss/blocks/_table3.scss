@@ -1,0 +1,39 @@
+.table3 {
+    width: 250px;
+    margin-top: 22px;
+    margin-left: 270px;
+
+
+    &__item3 {
+        color: grey;
+        margin-left: 314px;
+
+        &--list3 {
+            font-size: 15px;
+        }
+
+
+    }
+
+    &__list3 {
+
+        background-color: #FFC2C1;
+        clip-path: polygon(98% 0, 100% 2%, 100% 98%, 98% 100%, 2% 100%, 0 98%, 0 0);
+        padding: 15px 15px 15px 15px;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+
+        margin-top: 10px;
+
+        &--item3 {
+            padding-bottom: 3px;
+
+        }
+
+
+    }
+
+}
